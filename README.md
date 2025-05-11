@@ -22,13 +22,6 @@ Classes &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &ensp; - 7 classes:
 - Google Colab, Google Drive, Roboflow
 
 ## Results
-P = 0.764
-
-R = 0.735
-
-F1 = 0.749
-
-mAP = 0.784
 
 | P     | R     | F1    | mAP   |
 | ----- | ----- | ----- | ----- |
